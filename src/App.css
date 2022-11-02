@@ -28,6 +28,29 @@
   color: #61dafb;
 }
 
+.form_login{
+  margin: auto;
+  width: 40%;
+}
+
+.form_login h4{
+  font-size: x-large;
+  margin-top: 50px;
+  margin-left: 120px;
+}
+
+.list_mobil{
+  margin-top: 50px;
+}
+.tbl_mobil{
+  border: 1px black solid;
+  text-align: center;
+  margin: auto;
+}
+.tbl_mobil td{
+  left: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
